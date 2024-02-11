@@ -1,0 +1,16 @@
+{"List Of Account": [
+    {
+        "password": "password1",
+        "balance": 200,
+        "accountNumber": 1,
+        "transactions": "model.TransactionsList@10683d9d",
+        "username": "name1"
+    },
+    {
+        "password": "password2",
+        "balance": 20,
+        "accountNumber": 2,
+        "transactions": "model.TransactionsList@3fc2959f",
+        "username": "name2"
+    }
+]}
